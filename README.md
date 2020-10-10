@@ -1,3 +1,3 @@
-Nome:Leandro Roberto dos Santos /n
+Nome:Leandro Roberto dos Santos
 Curso:Ciência da Computação
 Disciplina Inteligencia Artificial
